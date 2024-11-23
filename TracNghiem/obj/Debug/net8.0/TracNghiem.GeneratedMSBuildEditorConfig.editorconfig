@@ -1,0 +1,187 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TracNghiem
+build_property.RootNamespace = TracNghiem
+build_property.ProjectDir = C:\Users\admin\Downloads\demogit-main\TracNghiem\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\admin\Downloads\demogit-main\TracNghiem
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/CauHoi/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F1SG9pXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/CauHoi/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F1SG9pXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/CauHoi/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F1SG9pXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/CauHoi/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F1SG9pXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/CauHoi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F1SG9pXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/DeThiCauHoi/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVUaGlDYXVIb2lcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/DeThiCauHoi/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVUaGlDYXVIb2lcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/DeThiCauHoi/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVUaGlDYXVIb2lcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/DeThiCauHoi/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVUaGlDYXVIb2lcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/DeThiCauHoi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVUaGlDYXVIb2lcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/DeThi/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVUaGlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/DeThi/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVUaGlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/DeThi/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVUaGlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/DeThi/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVUaGlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/DeThi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVUaGlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/KetQua/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2V0UXVhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/KetQua/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2V0UXVhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/KetQua/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2V0UXVhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/KetQua/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2V0UXVhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/KetQua/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2V0UXVhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/MonHoc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uSG9jXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/MonHoc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uSG9jXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/MonHoc/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uSG9jXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/MonHoc/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uSG9jXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/MonHoc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uSG9jXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/MucDo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVjRG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/MucDo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVjRG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/MucDo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVjRG9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/MucDo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVjRG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/MucDo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVjRG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/ThanhVien/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhhbmhWaWVuXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/ThanhVien/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhhbmhWaWVuXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/ThanhVien/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhhbmhWaWVuXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/ThanhVien/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhhbmhWaWVuXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/ThanhVien/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhhbmhWaWVuXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Downloads/demogit-main/TracNghiem/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-crv8azqo0p
