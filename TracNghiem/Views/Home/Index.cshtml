@@ -1,8 +1,36 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿<section id="home">
+    <div class="container">
+        <h1>Welcome to Trắc Nghiệm C500</h1>
+        <p>Trắc Nghiệm C500 giúp thầy cô, trường tổ chức kỳ thi, kiểm tra nhanh chóng.</p>
+    </div>
+</section>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<section id="demo">
+    <div class="container mt-5">
+        <div class="row align-items-center">
+            <!-- Hình ảnh -->
+            <div class="col-md-6 text-center">
+                <img src="@Url.Content("~/Pictures/tracnghiem.png")" alt="Trắc nghiệm trực tuyến" class="img-fluid" />
+            </div>
+
+            <!-- Bảng đăng ký và đăng nhập -->
+            <div class="col-md-6">
+                <div class="card shadow-sm" style="border-radius: 15px;">
+                    <div class="card-body text-center">
+                        <a href="/Account/Register" class="btn btn-danger btn-block mb-3" style="border-radius: 25px;">Đăng ký</a>
+                        <a href="/Account/Login" class="btn btn-primary btn-block" style="border-radius: 25px;">Đăng nhập</a>
+                    </div>
+                </div>
+                <div class="mt-3 text-center">
+                    <a href="#" class="text-decoration-none text-primary"><i class="bi bi-bank"></i> Ngân hàng câu hỏi</a> |
+                    <a href="#" class="text-decoration-none text-primary"><i class="bi bi-list-task"></i> Trộn đề trắc nghiệm</a>
+                </div>
+                <div class="mt-3 text-center">
+                    <span class="text-muted">Tiếng Việt</span> | <a href="#" class="text-decoration-none">English</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</section>
